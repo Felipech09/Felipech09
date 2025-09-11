@@ -1,16 +1,28 @@
-## Hi there 👋
+## Olá sou o Felipe 👋
 
-<!--
-**Felipech09/Felipech09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 Estagiário em tecnologia, sempre buscando aprender mais   
+🚀 Participando de processos seletivos e desenvolvendo meu portfólio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Sobre mim
+
+- 📍 Moro em Brasília - DF
+- 📚 Estudando programação com foco em backend
+- ⏳ Cumprindo 6 horas de estágio por dia útil
+
+---
+
+## 🛠️ Tecnologias que estou focado em saber mais
+
+- Java ☕
+- Python 🐍
+- Git e GitHub 🐙
+
+
+## Trabalho com
+
+- POWER BI
+- Pacote Office
+- Github
