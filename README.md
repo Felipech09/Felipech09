@@ -1,8 +1,7 @@
 ## Olá sou o Felipe 👋
 
 
-🎓 Estagiário em tecnologia, sempre buscando aprender mais   
-🚀 Participando de processos seletivos e desenvolvendo meu portfólio
+🎓 Estagiário em tecnologia, sempre buscando aprender mais
 
 ---
 
