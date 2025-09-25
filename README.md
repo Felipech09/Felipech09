@@ -1,7 +1,8 @@
 ## Olá sou o Felipe 👋
 
 
-🎓 Estagiário em tecnologia, sempre buscando aprender mais
+Estagiário em tecnologia, sempre buscando aprender mais
+Idade: 10101
 
 ---
 
