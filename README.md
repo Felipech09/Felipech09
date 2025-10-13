@@ -16,6 +16,8 @@
 
 ## 🛠️ Tecnologias que estou focado em saber mais
 
-- Java <img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/127d5c77-f006-4aa8-9329-e1b9048bd44d" />
+# - Java <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/127d5c77-f006-4aa8-9329-e1b9048bd44d" />
+
+
 - Python 🐍
 - Git e GitHub 🐙
