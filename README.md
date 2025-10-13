@@ -14,7 +14,7 @@
 
 ---
 
-## <img width="15" height="15" alt="Image" src="https://github.com/user-attachments/assets/4c659b39-1454-4ed1-8b9b-7552c51aad31" /> Linguagens e tecnologias
+## <img width="25" height="25" alt="Image" src="https://github.com/user-attachments/assets/80e348e8-3366-42cf-bb17-d31b5c45d481" /> Linguagens e tecnologias
 
 <img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/3065fea5-e157-46cb-ab09-f497f0aa8aa8" />
 <img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/e0371bf9-6b53-4553-bd34-3b8f88f422e0" />
