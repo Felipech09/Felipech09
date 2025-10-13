@@ -16,6 +16,6 @@
 
 ## 🛠️ Tecnologias que estou focado em saber mais
 
-- Java ☕
+- Java ![logo java
 - Python 🐍
 - Git e GitHub 🐙
