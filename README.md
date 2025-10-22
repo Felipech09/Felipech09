@@ -30,7 +30,7 @@
   <img width="60" height="60" src="https://github.com/user-attachments/assets/4fbe2c41-09e6-4143-ac4c-0d5b40d543d4" alt="Tecnologia 5" />
 </p>
 
-## 🌐 Redes Sociais
+## Redes Sociais
 
 <p align="center">
   <a href="https://www.instagram.com/seu_usuario_aqui" target="_blank">
