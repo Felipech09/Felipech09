@@ -1,4 +1,4 @@
-## Olá sou o Felipe 👋
+## Olá sou o Felipe
 
 
 - Estagiário em tecnologia, sempre buscando aprender mais
