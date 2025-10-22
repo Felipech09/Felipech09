@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
 
 - 📍 Moro em Brasília - DF
 - 📚 Estudando programação com foco em backend
