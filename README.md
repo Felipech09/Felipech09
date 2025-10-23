@@ -37,7 +37,7 @@
    <img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/25a5b5a7-1e78-4dac-883f-c1632a8c03ca" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/seu_usuario_aqui" target="_blank">
+  <a href="https://www.linkedin.com/in/felipe-campos-hip%C3%B3lito" target="_blank">
     <img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/712bb661-81b3-406c-8916-0bcee671d297" />
   </a>
 </p>
