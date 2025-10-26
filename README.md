@@ -33,7 +33,7 @@
 ## Redes Sociais
 
 <p align="center">
-  <a href="https://www.instagram.com/seu_usuario_aqui" target="_blank">
+  <a href="https://www.instagram.com/lipe_ch_/#" target="_blank">
    <img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/25a5b5a7-1e78-4dac-883f-c1632a8c03ca" />
   </a>
   &nbsp;&nbsp;&nbsp;
