@@ -30,7 +30,6 @@
   <img width="85" height="85" alt="Image" src="https://github.com/user-attachments/assets/95ea7028-3ca5-44ec-83c8-a88c59731551" />
 </p>
 
-!Top Langs
 
 ## Redes Sociais
 
