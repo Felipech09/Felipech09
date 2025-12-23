@@ -7,8 +7,8 @@
 
 ## Sobre mim
   
-- 📚 Estudando programação com foco em backend  
-- ⏳ Cumprindo 6 horas de estágio por dia útil  
+-  Estudando programação com foco em backend  
+-  Sempre criando portifólios para melhorar meu currículo  
 
 ---
 
