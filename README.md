@@ -12,6 +12,24 @@
 
 ---
 
+## Portfólios:
+
+<p align="center">
+<a href="https://github.com/Felipech09/testando-POO/tree/main/GerenciadorCPF" target="_blank">
+<img src="https://img.shields.io/badge/Gerenciador%20de%20CPF-Backend-blue?style=for-the-badge&logo=github" alt="Gerenciador de CPF"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Felipech09/testando-POO/tree/main/Karaoke" target="_blank">
+<img src="https://img.shields.io/badge/Karaoke-App-green?style=for-the-badge&logo=github" alt="Karaoke"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Felipech09/testando-POO/tree/main/Locadora-de-M%C3%ADdia" target="_blank">
+<img src="https://img.shields.io/badge/Locadora%20de%20Mídia-System-orange?style=for-the-badge&logo=github" alt="Locadora de Mídia"/>
+</a>
+</p>
+
+---
+
 ## Minha área
 
 <table>
