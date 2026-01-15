@@ -1,6 +1,6 @@
 ## Olá, sou o Felipe
 
-- Estagiando no Ministério da defesa na área da tecnologia, sempre buscando aprender mais
+- Estagiario no Ministério da Defesa na área da tecnologia
 - Idade: 10101
 
 ---
