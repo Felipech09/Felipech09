@@ -30,8 +30,9 @@
 <p align="center">
   <img width="60" height="60" src="https://github.com/user-attachments/assets/3065fea5-e157-46cb-ab09-f497f0aa8aa8" alt="Tecnologia 1" />
   <img width="60" height="60" src="https://github.com/user-attachments/assets/e0371bf9-6b53-4553-bd34-3b8f88f422e0" alt="Tecnologia 2" />
-  <img width="60" height="60" src="https://github.com/user-attachments/assets/d0ca6984-e382-4e80-ab0a-350d7aeea2b7" alt="Tecnologia 3" />
-  <img width="60" height="60" src="https://github.com/user-attachments/assets/1e9593b6-734c-418d-af4b-d67c7d54a013" alt="Tecnologia 4" />
+  <img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/d811da02-df88-445d-9444-79106624528e" alt="Tecnologia 3"/>
+  <img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/3bc84e60-5de0-4849-a18c-bda9fd8e92e6" alt="Tecnologia 4"/>
+  <img width="60" height="60" src="https://github.com/user-attachments/assets/1e9593b6-734c-418d-af4b-d67c7d54a013" alt="Tecnologia 5" />
   <img width="85" height="85" alt="Image" src="https://github.com/user-attachments/assets/95ea7028-3ca5-44ec-83c8-a88c59731551" />
 </p>
 
