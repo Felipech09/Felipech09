@@ -37,6 +37,14 @@
   <img width="85" height="85" alt="Image" src="https://github.com/user-attachments/assets/95ea7028-3ca5-44ec-83c8-a88c59731551" />
 </p>
 
+---
+
+## Projetos Acadêmicos
+
+<table align="center" width="100%"><tr><!-- Box 1: Novas Tecnologias --><td valign="top" align="center" width="250" style="border:1px solid #ccc; padding:15px;"><h3 style="color:red; text-align:center;">Novas Tecnologias</h3><a href="https://github.com/Felipech09/Novas-tecnologias" target="_blank"><img src="https://img.shields.io/badge/Clique%20aqui-gray?style=for-the-badge&logo=github&labelColor=red&color=gray" alt="Novas Tecnologias"/></a></td><!-- Box 2: Extensão Programação Web --><td valign="top" align="center" width="250" style="border:1px solid #ccc; padding:15px;"><h3 style="color:red; text-align:center;">Programação para web</h3><a href="https://github.com/Felipech09/Extensao-programacao-web" target="_blank"><img src="https://img.shields.io/badge/Clique%20Aqui-gray?style=for-the-badge&logo=github&labelColor=red&color=gray" alt="Extensão Programação Web"/></a></td><!-- Box 3: Arquitetura de Software --><td valign="top" align="center" width="250" style="border:1px solid #ccc; padding:15px;"><h3 style="color:red; text-align:center;">Arquitetura de software</h3><a href="https://github.com/Felipech09/Arquitetura-de-software" target="_blank"><img src="https://img.shields.io/badge/Clique%20Aqui-gray?style=for-the-badge&logo=github&labelColor=red&color=gray" alt="Arquitetura de Software"/></a></td></tr></table>
+
+---
+
 
 ## Redes Sociais
 
