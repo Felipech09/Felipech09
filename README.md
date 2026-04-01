@@ -45,6 +45,10 @@
 
 ---
 
+<img align="center" alt="GitHub Stats" height="30%" style="padding-right: 10px;" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipech09&theme=tokyonight&layout=compact&langs_count=7">
+
+---
 
 ## Redes Sociais
 
