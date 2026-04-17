@@ -28,14 +28,32 @@
   </tr>
 </table>
 
-<p align="center">
-  <img width="60" height="60" src="https://github.com/user-attachments/assets/3065fea5-e157-46cb-ab09-f497f0aa8aa8" alt="Tecnologia 1" />
-  <img width="60" height="60" src="https://github.com/user-attachments/assets/e0371bf9-6b53-4553-bd34-3b8f88f422e0" alt="Tecnologia 2" />
-  <img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/d811da02-df88-445d-9444-79106624528e" alt="Tecnologia 3"/>
-  <img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/3bc84e60-5de0-4849-a18c-bda9fd8e92e6" alt="Tecnologia 4"/>
-  <img width="60" height="60" src="https://github.com/user-attachments/assets/1e9593b6-734c-418d-af4b-d67c7d54a013" alt="Tecnologia 5" />
-  <img width="85" height="85" alt="Image" src="https://github.com/user-attachments/assets/95ea7028-3ca5-44ec-83c8-a88c59731551" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="60" height="60" src="https://github.com/user-attachments/assets/1e9593b6-734c-418d-af4b-d67c7d54a013" alt="C" />
+    </td>
+    <td align="center">
+      <img width="60" height="60" src="https://github.com/user-attachments/assets/3065fea5-e157-46cb-ab09-f497f0aa8aa8" alt="Java" />
+    </td>
+    <td align="center">
+      <img width="60" height="60" src="https://github.com/user-attachments/assets/e0371bf9-6b53-4553-bd34-3b8f88f422e0" alt="Py" />
+    </td>
+    <td align="center">
+      <img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/3e937d2d-ee2f-4245-b5f9-6c043ff42ad3" alt="JS" />    
+    </td>
+    <td align="center">
+      <img width="60" height="60" src="https://github.com/user-attachments/assets/d811da02-df88-445d-9444-79106624528e" alt="SQL" />
+    </td>
+    <td align="center">
+      <img width="60" height="60" src="https://github.com/user-attachments/assets/3bc84e60-5de0-4849-a18c-bda9fd8e92e6" alt="Mongo" />
+    </td>
+    <td align="center">
+      <img width="85" height="85" src="https://github.com/user-attachments/assets/95ea7028-3ca5-44ec-83c8-a88c59731551" alt="Git" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -53,13 +71,17 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipech09&t
 ---
 
 ## Redes Sociais
-
-<p align="center">
-  <a href="https://www.instagram.com/lipe_ch_/#" target="_blank">
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.instagram.com/lipe_ch_/#" target="_blank">
    <img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/25a5b5a7-1e78-4dac-883f-c1632a8c03ca" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/felipe-campos-hip%C3%B3lito" target="_blank">
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/felipe-campos-hip%C3%B3lito" target="_blank">
     <img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/712bb661-81b3-406c-8916-0bcee671d297" />
   </a>
-</p>
+    </td>
+  </tr>
+</table>
